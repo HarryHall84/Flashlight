@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var onButtonOut: UIButton!
     @IBOutlet weak var offButtonOut: UIButton!
-    
+    var test = 5
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = UIColor.white
